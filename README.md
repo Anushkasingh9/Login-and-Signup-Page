@@ -17,4 +17,4 @@ A modern and responsive Login & Signup page built using HTML and CSS with a glas
 - CSS3
 - Boxicons
 
-## 📂 Project Structure
+
